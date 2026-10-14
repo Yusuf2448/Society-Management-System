@@ -25,7 +25,7 @@ Target user roles:
 - FR-07: The system shall allow authenticated users to highlight selected text in SocietySRS/help content and retain those highlights for later review.
 
 ### 4. Non-Functional Requirements
-- NFR-01 Performance: The system shall support up to 200 concurrent authenticated society residents under normal operating conditions; 95% of standard resident and maintenance queries shall respond within 2 seconds.
+- NFR-01 Performance: The system shall support up to 500 concurrent authenticated society residents under normal operating conditions; 95% of standard resident and maintenance queries shall respond within 2 seconds.
 - NFR-02 Security: Role-based access control (RBAC) and encrypted resident credential storage.
 - NFR-03 Availability: 99.5% operational availability for portal services.
 

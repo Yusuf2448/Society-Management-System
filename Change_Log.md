@@ -13,3 +13,10 @@
 - Affected section: Functional Requirements -> Reader Features (FR-07)
 - Author role: Team Member 2
 - Version: v1.1
+
+### Change #2 — Concurrent-User Capacity
+- Date: 2026-10-14
+- Description: Updated the performance requirement from 200 to 500 concurrent society users.
+- Affected section: Non-Functional Requirements -> Performance (NFR-01)
+- Author role: Team Leader
+- Version: v1.2
