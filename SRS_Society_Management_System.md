@@ -22,6 +22,7 @@ Target user roles:
 - FR-04: Clubhouse and Community Facility Booking
 - FR-05: Maintenance Helpdesk and Resident Ticketing
 - FR-06: Digital Notice Board and Announcements
+- FR-07: The system shall allow authenticated users to highlight selected text in SocietySRS/help content and retain those highlights for later review.
 
 ### 4. Non-Functional Requirements
 - NFR-01 Performance: The system shall support up to 200 concurrent authenticated society residents under normal operating conditions; 95% of standard resident and maintenance queries shall respond within 2 seconds.
